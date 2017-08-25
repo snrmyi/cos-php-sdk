@@ -1,5 +1,5 @@
 {
-    "name": "qcloud/cos",
+    "name": "snrmyi/cos-php-sdk",
     "description": "PHP SDK for QCloud COS",
     "keywords": [
         "qcloud", "cos", "php"
